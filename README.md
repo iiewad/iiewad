@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a web developer from China.
+I am a `web developer` / `shopify app developer` from China.
 
-I'm good at `Ruby/Nodejs/Golang`
+I’m currently learning `microservice`
+- Language: Ruby / Golang / Nodejs / JavaScript
+- Framework: Ruby on Rails / Nestjs / Gin
+- 📫 How to reach me: lidawei.me@gmail.com

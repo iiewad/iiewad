@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a web developer from China.
+
+I'm good at `Ruby/Nodejs/Golang`
